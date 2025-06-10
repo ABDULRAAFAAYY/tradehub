@@ -1,7 +1,8 @@
 # TradeHub
 
 TradeHub is an e-commerce platform offering a wide range of products and services, including electronics, accessories, and repair services.
-
+## Live Demo:
+https://tradehub-eight.vercel.app
 ## Features
 
 - **Home Page:** Showcases featured products and special offers.
